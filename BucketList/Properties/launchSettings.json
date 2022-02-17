@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BucketList": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
